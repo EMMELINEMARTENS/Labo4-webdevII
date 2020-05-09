@@ -1,1 +1,5 @@
-# Labo4-webdevII
+# Chateau Meiland
+
+## intro tot Laravel WebDev2
+
+    composer install
